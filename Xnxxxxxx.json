@@ -2,8 +2,11 @@
   "own": "6283897735196",
   "op": "Bancet Kucluk",
   "nick": "Pacul-Wabot",
+  "sesi": "auth_sessions-pacul-wabot-",
   "thumbnail": "https://i.ibb.co/yy59VZn/pacul-wabot.jpg",
   "link": "https://chat.whatsapp.com/IxnPuxKtFQ88PWToEpfNDN",
   "qris": "https://i.ibb.co/zm0Whzs/qris.png",
-  "sesi": "auth_sessions-pacul-wabot"
+  "anu": [
+    "6283897735196"
+  ]
 }
